@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "fsbm",
+    "name": "Funny Skyblock Mod",
+    "description": "This mod provides cool utils for fast farming on Hypixel Skyblock",
+    "version": "1.4",
+    "mcversion": "1.8.9",
+    "url": "https://skillbase.xyz/",
+    "updateUrl": "",
+    "authorList": [
+      "SurreptitiousCoder"
+    ],
+    "credits": "SurreptitiousCoder",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
